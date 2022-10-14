@@ -1,13 +1,13 @@
 # Oi tudo bem? Eu sou João Arthur 👋
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/devarthur0/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarthur0/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthuursoares_)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=DevArthur0&show_icons=true&theme=radical)
 
  
- ## Linguagens que Utilizo
+ # Linguagens que Utilizo
 
  <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
